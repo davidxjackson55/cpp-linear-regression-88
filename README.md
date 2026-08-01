@@ -1,2 +1,4 @@
-# cpp-linear-regression-88
+# Cpp Linear Regression 88
+
 Basic slope-intercept coefficients solver in C++.
+
